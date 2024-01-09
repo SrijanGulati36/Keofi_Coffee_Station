@@ -13,7 +13,7 @@
 ### Demo Screeshots
 
 <img src="https://github.com/SrijanGulati36/Keofi_Coffee_Station/blob/main/readme-images/demo-1.png" />
-<img src="" />
+<img src="https://github.com/SrijanGulati36/Keofi_Coffee_Station/blob/main/readme-images/demo-2.png" />
 
 ### Prerequisites
 
