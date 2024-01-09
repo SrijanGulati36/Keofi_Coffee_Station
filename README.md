@@ -4,7 +4,7 @@
 
   Keofi is a fully responsive coffee website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://keofi-coffee-station.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://keofi-coffee-station-srijan-gulatis-projects.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
