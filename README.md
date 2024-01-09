@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![Keofi Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Keofi Desktop Demo](https://github.com/SrijanGulati36/Keofi_Coffee_Station/blob/main/readme-images/demo-1.png")
 
 ### Prerequisites
 
